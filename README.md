@@ -1,3 +1,3 @@
 # Practica Final
 
-Pesos y alturas de hombres y mujeres.
+Práctica final de diplomatura en deep learning.
